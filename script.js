@@ -138,3 +138,4 @@ document.addEventListener("DOMContentLoaded", function () {
   // Step 9: Load tasks from Local Storage when the page is loaded
   loadTasks();
 });
+//done steps
